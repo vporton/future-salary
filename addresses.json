@@ -174,35 +174,41 @@
     },
     "local": {
         "SalaryWithDAO": {
-            "address": "0x970e8f18ebfEa0B08810f33a5A40438b9530FBCF"
+            "address": "0x53b94F9474c01678040BA7da4bc54DCD8c0Ed0BA"
         },
         "ERC1155LockedETH": {
-            "address": "0x4bf3A7dFB3b76b5B3E169ACE65f888A4b4FCa5Ee"
+            "address": "0x3c3d89322de3aC6D5BCBD10801BbB2C68f5AC5f1"
         },
         "DonateETH": {
-            "address": "0x4339316e04CFfB5961D1c41fEF8E44bfA2A7fBd1"
+            "address": "0x102EB6c9895955Ce780508f1e9ee7Ac2bdd1CE57"
         },
         "ERC1155OverERC20": {
-            "address": "0xEC5d4F247aF81A843612eb1371CBCfa88b762119"
+            "address": "0x9095b8e8a5a4E7Fcb7F569dDc325eAB089732B26"
         },
         "UnitedSalaryTokenWrapper": {
-            "address": "0xf19A2A01B70519f67ADb309a994Ec8c69A967E8b"
+            "address": "0x0937F524C8A7d3D6Af3023875CF6c7f293F3B994"
         },
         "ERC1155OverERC721": {
-            "address": "0xc0b3B62DD0400E4baa721DdEc9B8A384147b23fF"
+            "address": "0x79e0ba0C34ED4cc6a493ebCdf11A84491Cb6f5ea"
         },
         "oracleId": "1",
         "ERC1155Mock": {
-            "address": "0x0290FB167208Af455bB137780163b7B7a9a10C16"
+            "address": "0x0a8c20aadDDDF50AFD1d431342Aaf28E4e757884"
         },
         "MockCoin": {
-            "address": "0x2612Af3A521c2df9EAF28422Ca335b04AdF3ac66"
+            "address": "0x8feB2EFEC924f90ccbAA05Cdfeb805C3F810EE75"
         },
         "LockAggregator": {
-            "address": "0x47a2Db5D68751EeAdFBC44851E84AcDB4F7299Cc"
+            "address": "0x4d040B247949a76cB8134203Da822Da50C674557"
         },
         "NFTRestoreContract": {
-            "address": "0xFF6049B87215476aBf744eaA3a476cBAd46fB1cA"
+            "address": "0xcF7F9472FAB9372b34D96FbE1B57966B13951dbf"
+        },
+        "NFTSalary": {
+            "address": "0xC89Ce4735882C9F0f0FE26686c53074E09B0D550"
+        },
+        "NFTSalaryRecipient": {
+            "address": "0x464c94ea90fc7D0D08Bb956cffB9AcfE3AAA5313"
         }
     },
     "bsc": {
